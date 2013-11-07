@@ -1,5 +1,7 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=1614
 
-Satori is an elegant and clean color scheme for white or black background terminals. This color scheme has been developed under Terminall.app on  Mac OS X but it also looks great in another Unix variants. 
+Satori is an elegant and clean color scheme for Vim, on white or black
+background terminals.  This color scheme has been developed under OS X and
+it looks great in Linux.
 
-Development version in http://code.google.com/p/ruda/source/browse/trunk/vim/satori.vim
+Homepage: http://rudamoura.com/satori/
